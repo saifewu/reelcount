@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ReelCount</string>
+    <string name="a11y_description">Counts the Facebook Reels you swipe through and shows the number beside your camera. It only looks at Facebook\'s screen layout, and nothing leaves your phone.</string>
+
+    <string name="reels_today">Reels today</string>
+    <string name="all_time">%1$s all time</string>
+    <string name="limit_of">limit %1$s</string>
+
+    <string name="status_on">Counting. Open Reels in Facebook.</string>
+    <string name="turn_on">Turn on counting</string>
+    <string name="setup_hint">Find ReelCount under Accessibility → Downloaded apps and switch it on. If the switch is greyed out, open App info, tap ⋮, choose Allow restricted settings, then try again.</string>
+    <string name="open_a11y">Open Accessibility</string>
+    <string name="app_info">App info</string>
+
+    <string name="settings">Settings</string>
+    <string name="pill">Pill</string>
+    <string name="island">Island</string>
+    <string name="beside">Beside</string>
+    <string name="show">Show</string>
+    <string name="in_facebook">In Facebook</string>
+    <string name="always">Always</string>
+    <string name="daily_limit">Daily limit</string>
+    <string name="off">Off</string>
+    <string name="reset_today">Reset today</string>
+    <string name="reset_confirm">Tap again to reset</string>
+    <string name="no_scrolls">No reel swipes seen yet.</string>
+</resources>

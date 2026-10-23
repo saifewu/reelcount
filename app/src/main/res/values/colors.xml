@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Anthropic brand palette -->
+    <color name="dark">#141413</color>
+    <color name="ivory">#FAF9F5</color>
+    <color name="orange">#D97757</color>
+    <color name="light">#E8E6DC</color>
+    <color name="mid">#B0AEA5</color>
+    <color name="muted">#73726C</color>
+    <color name="green">#788C5D</color>
+</resources>
